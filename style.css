@@ -1,0 +1,23 @@
+#status
+{
+    font-size: 24px;
+}
+
+.instructions
+{
+    font-size: 19px;
+    color: floralwhite;
+    float: right;
+}
+
+#title
+{
+    font-size: 27px;
+    width: 98%;
+    text-align: left;
+}
+
+h2
+{
+    display: inline;
+}
